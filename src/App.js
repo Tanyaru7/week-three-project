@@ -9,6 +9,7 @@ function App() {
         <h1>A wish list</h1>
       </div>
       <List/>
+      <p>test</p>
     </div>
   );
 }
